@@ -9,6 +9,7 @@ public class Exercise1 {
     public Exercise1(){};
 
     public void Palidrome() {
+        
         Scanner scanner = new Scanner(System.in);
         
         String Input = scanner.nextLine();
